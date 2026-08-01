@@ -1,5 +1,7 @@
 # 🏃‍♂️ Google Fit 2024 — Quantified-Self & Health Analytics
 
+**GitHub Repository**: [https://github.com/Meowshoot/fit2024](https://github.com/Meowshoot/fit2024)
+
 A comprehensive data analytics project analyzing **366 consecutive days** of physical activity tracking telemetry exported from Google Fit during calendar year 2024.
 
 ---
@@ -106,8 +108,8 @@ This project explores daily step count volume, cumulative distance, cardiovascul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meowshoot/google-fit-10k-steps-2024.git
-   cd google-fit-10k-steps-2024
+   git clone https://github.com/Meowshoot/fit2024.git
+   cd fit2024
    ```
 2. Install dependencies:
    ```bash
